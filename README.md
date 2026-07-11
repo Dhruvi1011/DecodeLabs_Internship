@@ -15,6 +15,8 @@ This repository contains the projects completed during my Artificial Intelligenc
 * Built a machine learning classification model.
 * Performed data preprocessing, training, and prediction.
 * Demonstrates supervised learning concepts.
+* Take user input and classify flower Iris-setosa,Iris-versicolor and Iris-virginica
+* Classify based on width and length of sepal and petal 
 
 ### Task 3: AI Shopping Recommendation System
 
