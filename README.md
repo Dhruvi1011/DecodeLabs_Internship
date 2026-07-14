@@ -18,7 +18,7 @@ RuleBot is a simple rule-based chatbot built using Python. It responds to predef
 ## How to Run
 
 ```bash
-python rulebot.py
+python task1.py
 ```
 
 ## Sample Commands
